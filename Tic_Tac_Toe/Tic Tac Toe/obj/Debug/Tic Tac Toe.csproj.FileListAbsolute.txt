@@ -1,0 +1,10 @@
+C:\Users\volka\source\repos\Tic_Tac_Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe.config
+C:\Users\volka\source\repos\Tic_Tac_Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe
+C:\Users\volka\source\repos\Tic_Tac_Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.pdb
+C:\Users\volka\source\repos\Tic_Tac_Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csprojAssemblyReference.cache
+C:\Users\volka\source\repos\Tic_Tac_Toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Tic_Tac_Toe_Game.resources
+C:\Users\volka\source\repos\Tic_Tac_Toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\volka\source\repos\Tic_Tac_Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.GenerateResource.cache
+C:\Users\volka\source\repos\Tic_Tac_Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\volka\source\repos\Tic_Tac_Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.exe
+C:\Users\volka\source\repos\Tic_Tac_Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.pdb
